@@ -6,6 +6,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Project </h3>
 
-- 🎓 &nbsp; Internship: ETHANUS MERN-STACK 
+- 🎓 &nbsp; Internship: ETHNUS MERN-STACK 
 - 🌱 &nbsp; It is the set 1 assignment of the internship
  
